@@ -2,13 +2,15 @@
 
 ### knowledge:
 - Basic of Web (HTML, CSS, JS)
-- Basic of Bootstrap (CSS)
 - Expert in Python mainly for automation
-- Expert in MySQL
 
 ### Learning:
 - C standard
-- Intend to learn json soon
+
+### Intend to learn:
+- Json
+- MySQL
+- Bootstrap (CSS)
 
  <div>
   <a href="https://github.com/Otakubb">
