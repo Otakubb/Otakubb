@@ -1,7 +1,7 @@
 ## Hello I'm Santiago(Otakubb)
 
 ### knowledge:
-- Basic of Web (HTML, CSS, JS)
+- Basic of Web
 - Expert in Python mainly for automation
 
 ### Learning:
