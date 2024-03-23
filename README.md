@@ -1,16 +1,20 @@
 ## Hello I'm Santiago(Otakubb)
 
 ### knowledge:
-- Basic of Web
-- Expert in Python mainly for automation
+- Java (android)
+- C
+- C#.NET
+- JS, HTML & CSS
+- Python (for personal use, automating day-to-day tasks)
+- SQL Server
+- ASP.NET MVC Pattern
+
 
 ### Learning:
-- C standard
+- Industrial Automation
 
 ### Intend to learn:
-- Json
-- MySQL
-- Bootstrap (CSS)
+- Kotlin
 
  <div>
   <a href="https://github.com/Otakubb">
