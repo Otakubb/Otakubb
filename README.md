@@ -8,10 +8,13 @@
 - Python (for personal use, automating day-to-day tasks)
 - SQL Server
 - ASP.NET MVC Pattern
+- ASP.NET ASPX
 
 
 ### Learning:
-- Industrial Automation
+- Ladder Logic
+- Vue
+- ASP.NET Core Web API
 
 ### Intend to learn:
 - Kotlin
